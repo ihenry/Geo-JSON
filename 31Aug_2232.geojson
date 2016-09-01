@@ -2284,7 +2284,10 @@
     {
       "type": "Feature",
       "properties": {
-        "SEG_CODE": "ST-CL"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "SEG_CODE": "ST-RE"
       },
       "geometry": {
         "type": "LineString",
